@@ -65,3 +65,13 @@ div.search.mobile-only {
 code { 
 	direction: ltr !important;
 }
+
+h2#footnote-label{
+  visibility: hidden;
+}
+ 
+h2#footnote-label::after{
+  content: "پانوشت‌ها";
+  visibility: visible;
+  display: block;
+}
