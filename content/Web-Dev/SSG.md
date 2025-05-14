@@ -1,4 +1,11 @@
-# 🏗️✨ آشنایی با مولدهای سایت ایستا (SSG) و مزایای آن‌ها
+---
+title: "سایت‌سازهای ایستا"
+draft: false
+tags:
+  - آموزش
+---
+
+# ✨ آشنایی با مولدهای سایت ایستا (SSG) و مزایای آن‌ها
 
 وب‌سایت‌ها به روش‌های مختلفی ساخته می‌شوند. یکی از رویکردهای مدرن و محبوب، استفاده از "مولدهای سایت ایستا" یا SSG (Static Site Generator) است. اما SSG چیست و چرا ممکن است گزینه مناسبی برای پروژه بعدی شما باشد؟
 
@@ -41,7 +48,7 @@ SSG ها برای وبلاگ‌ها، سایت‌های نمونه کار (Portf
 ---
 ---
 
-# 🏗️✨ Understanding Static Site Generators (SSGs) and Their Benefits
+# ✨ Understanding Static Site Generators (SSGs) and Their Benefits
 
 Websites are built in various ways. One modern and popular approach is using "Static Site Generators" or SSGs. But what is an SSG, and why might it be the right choice for your next project?
 

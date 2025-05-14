@@ -75,3 +75,12 @@ h2#footnote-label::after{
   visibility: visible;
   display: block;
 }
+
+blockquote {
+	border-right: 3px solid var(--secondary);
+  border-left: none;
+	margin: 1rem 0;
+	padding-right: 1rem;
+  padding-left: none;
+	transition: border-color .2s;
+}
