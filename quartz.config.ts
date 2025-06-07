@@ -416,7 +416,7 @@ const colorPalettes = {
 // Select your desired palette here
 // Available palettes: original, coolBlues, warmEarth, forestGreen, royalPurple, oceanicTeal, monochrome, vintageCream, devDark, oceanVibes, halloween, neon, sunset, persianAzure, sakuraDreams, cyberpunkCity, autumnGrove
 // type PaletteName = keyof typeof colorPalettes; // This line might cause issues with older TS
-const currentPaletteName: keyof typeof colorPalettes = "royalPurple"
+const currentPaletteName: keyof typeof colorPalettes = "monochrome"
 
 const selectedPalette = colorPalettes[currentPaletteName]
 
